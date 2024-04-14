@@ -10,36 +10,34 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --decorated-Color: #353430;
-  --title-Color: #FFC2E6;
-  --title-shadow-Color: #FF8DCB;
-  --accent-bg-Color: #FF8DCB;
+  --title-Color: #ffc2e6;
+  --title-shadow-Color: #ff8dcb;
+  --accent-bg-Color: #ff8dcb;
   --accent-Color: #353430;
-  --main-bg-color: #FFF1F7;
+  --main-bg-color: #fff1f7;
   --main-title-Color: #353430;
   --mainColor: #353430;
-  --main-link-shadow: #FF8DCB;
+  --main-link-shadow: #ff8dcb;
   --bg-image-path: url(../images/cover-image-light.png) no-repeat;
-  --hover-Color: rgba(50, 49, 45, 0.40);
+  --hover-Color: rgba(50, 49, 45, 0.4);
 }
-
-
 
 @media (prefers-color-scheme: light) {
   :root {
     --decorated-Color: #353430;
-    --title-Color: #FFC2E6;
-    --title-shadow-Color: #FF8DCB;
-    --accent-bg-Color: #FF8DCB;
+    --title-Color: #ffc2e6;
+    --title-shadow-Color: #ff8dcb;
+    --accent-bg-Color: #ff8dcb;
     --accent-Color: #353430;
-    --main-bg-color: #FFF1F7;
+    --main-bg-color: #fff1f7;
     --main-title-Color: #353430;
     --mainColor: #353430;
-    --main-link-shadow: #FF8DCB;
+    --main-link-shadow: #ff8dcb;
     --bg-image-path: url(../images/cover-image-light.png) no-repeat;
-    --hover-Color: rgba(50, 49, 45, 0.40);
+    --hover-Color: rgba(50, 49, 45, 0.4);
   }
 
-  span .header-decorated-text {
+  .header-decorated-text {
     display: none;
   }
 }
