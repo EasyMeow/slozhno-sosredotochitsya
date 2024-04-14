@@ -201,8 +201,6 @@
   text-shadow: 2px 2px 0 var(--title-shadow-Color);
 }
 
-
-
 @media (min-width: 1024px) {
 
   .header {
