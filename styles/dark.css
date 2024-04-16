@@ -20,4 +20,8 @@
   --main-link-shadow: #FF0070;
   --bg-image-path: url(../images/cover-image-dark.png), #000028 no-repeat;
   --hover-color: rgba(255, 0, 112, 0.40);
+
+  .header-decorated-text {
+    display: flex;
+  }
 }

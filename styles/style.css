@@ -263,25 +263,25 @@
     width: 491px;
   }
 
-  .cards-grid1 {
+  .cards-grid-hard-to-concentrate {
     grid-template-columns: 1fr 2fr;
     gap: 20px;
   }
 
-  .cards-cell1 {
+  .cards-title-hard-to-concentrate {
     grid-row: 1/3;
   }
 
-  .cards-grid2 {
+  .cards-grid-concentration-decrease {
     grid-template-columns: 1fr 1fr 1fr;
   }
 
-  .cards-cell2 {
+  .cards-cell-concentration-decrease {
     width: 315px;
     grid-column: span 3;
   }
 
-  .cards-grid3 {
+  .cards-grid-how-to-concentrate {
     grid-template-columns: 1fr 2fr;
     gap: 20px;
   }
@@ -372,26 +372,26 @@
     height: 1024px;
   }
 
-  .cards-grid1 {
+  .cards-grid-hard-to-concentrate {
     grid-template-columns: 1fr 2fr;
     gap: 20px;
   }
 
-  .cards-cell1 {
+  .cards-title-hard-to-concentrate {
     grid-row: 1/3;
   }
 
-  .cards-grid2 {
+  .cards-grid-concentration-decrease {
     display: grid;
     grid-template-columns: 1fr;
     gap: 20px;
   }
 
-  .cards-cell2 {
+  .cards-cell-concentration-decrease {
     width: 236px;
   }
 
-  .cards-grid3 {
+  .cards-grid-how-to-concentrate {
     grid-template-columns: 1fr 2fr;
     gap: 20px;
   }
