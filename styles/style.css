@@ -422,11 +422,11 @@
     grid-auto-columns: minmax(355px, auto);
   }
 
-  .decorated-zone::after { 
+  .decorated-zone::after {
     margin: 10px;
   }
 
-  .decorated-zone::before { 
+  .decorated-zone::before {
     margin: 10px;
   }
 
